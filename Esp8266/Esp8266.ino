@@ -24,8 +24,8 @@ const char* password_AP = "APWifiPassword";
 
 ESP8266WebServer server(80);
 
-const int led = 13;
-const int Neopixel = 14;//D5
+const int led = 13;			//Pin: D7
+const int Neopixel = 14;	//Pin: D5
 
 DynamicJsonBuffer jsonBuffer;
 
