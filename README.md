@@ -77,6 +77,7 @@ Configure the ip of the Esp8266:
 ![Alt text](/img/img3.png?raw=true "Configure the extension")
 
 
-
-
+Usage of the extension:
+-----------------------
+When you made some selections on your Qlik Sense dashboard, the value of your mesure is send to the esp8266 and shown ont the Neopixel ring.
 
